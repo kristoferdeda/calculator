@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 MAIN FEATURES:
 - Prompts the user to input two  numbers and an operator until it gets valid inputs.
